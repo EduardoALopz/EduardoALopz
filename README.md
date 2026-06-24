@@ -24,7 +24,7 @@ Atualmente Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade
 
 ---
 
-## Tecnologias & Fechaduras
+## Tecnologias 
 
 * **Linguagens De Programação:** Java
 * **Frameworks E Ecossistema:** SpringBoot, SpringDataJpa, SpringSecurity, SpringWeb
@@ -43,4 +43,4 @@ Atualmente Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade
 
 > "Construindo uma Trajetória Sólida na Tecnologia por Meio de Consistência, Aprendizado Contínuo e foco em Excelência Técnica."
 
-**Tags:** `Java` `SpringBoot` `BackEnd` `SQL` `Docker` `AWS` `SoftwareDevelopment`
+**Tags:** `Java` `SpringBoot` `BackEnd` `SQL` `MySQL` `Docker` `Amazon Web Services` `SoftwareDevelopment`
