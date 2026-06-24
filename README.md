@@ -46,8 +46,8 @@ Atualmente curso **An√°lise e Desenvolvimento de Sistemas** na **Universidade S√
 
 ## Contato
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **E-mail:** [seu.email@provedor.com](mailto:seu.email@provedor.com)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eduardolopesilveira/?skipRedirect=true)
+- **E-mail:** [seu.email@provedor.com](deveducontato@gmail.com)
 
 ---
 
