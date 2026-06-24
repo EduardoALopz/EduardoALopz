@@ -1,4 +1,8 @@
-# Olá, Eu Sou o Eduardo Lopes! 👋
+# Olá, eu sou o Eduardo Lopes 👋
+
+Desenvolvedor em formação focado em **Back-End Java**, com interesse em criar soluções eficientes, escaláveis e bem estruturadas.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade São Judas Tadeu** e estou em busca da minha primeira oportunidade na área de tecnologia.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -11,29 +15,27 @@
 
 ---
 
-### 🚀 Sobre Mim
+## Sobre mim
 
-Tenho 19 anos e sou natural do Rio Grande do Sul. Recentemente, tomei a decisão de me mudar para São Paulo focado em buscar grandes oportunidades no setor tecnológico. 
-
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** pela **Universidade São Judas Tadeu** e estou em busca da minha primeira oportunidade no mercado de trabalho para aplicar meus conhecimentos técnicos, evoluir como profissional e contribuir com soluções eficientes.
-
-- 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas (Universidade São Judas Tadeu)
-- 📍 **Localização:** São Paulo
-- 🎯 **Objetivo:** Primeira Oportunidade / Estágio / Desenvolvedor Júnior
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade São Judas Tadeu.
+- 💻 Focado em desenvolvimento **Back-End** com Java e Spring Boot.
+- 🚀 Buscando minha primeira oportunidade como **estagiário** ou **desenvolvedor júnior**.
+- 📍 Moro em **São Paulo - SP**.
+- 🎯 Interesse em construir soluções com boa organização, performance e escalabilidade.
 
 ---
 
-### 🛠️ Habilidades Técnicas
+## Tecnologias e ferramentas
 
-* **Linguagens de Programação:** Java
-* **Frameworks & Ecossistema:** Spring Boot (Data JPA, Security, Web)
-* **Bancos de Dados:** SQL, MySQL
-* **Ferramentas & Infraestrutura:** Docker, AWS (Amazon Web Services)
-* **Controle de Versão:** Git e GitHub
+- **Linguagens:** Java
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security, Spring Web
+- **Banco de dados:** SQL, MySQL
+- **Infraestrutura:** Docker, AWS
+- **Versionamento:** Git, GitHub
 
 ---
 
-### 📊 Estatísticas do GitHub
+## GitHub em destaque
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
@@ -42,9 +44,13 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** pela **Universidade
 
 ---
 
-### 📫 Como me encontrar
+## Contato
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **E-mail:** seu.email@provedor.com
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **E-mail:** [seu.email@provedor.com](mailto:seu.email@provedor.com)
 
-Tags: #Java #SpringBoot #Backend #SQL #Docker #AWS
+---
+
+> “Construindo minha jornada na tecnologia com consistência, aprendizado e foco em evolução.”
+
+**Tags:** `Java` `Spring Boot` `Backend` `SQL` `Docker` `AWS`
