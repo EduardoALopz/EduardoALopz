@@ -15,7 +15,7 @@ Atualmente Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade
 
 ---
 
-## SobreMim
+## Sobre Mim
 
 * **Origem:** Natural do Rio Grande do Sul, Residindo Atualmente em São Paulo.
 * **Formação:** Graduação em Análise e Desenvolvimento de Sistemas (Universidade São Judas Tadeu).
@@ -24,13 +24,13 @@ Atualmente Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade
 
 ---
 
-## TecnologiasEFechaduras
+## Tecnologias & Fechaduras
 
-* **LinguagensDeProgramação:** Java
-* **FrameworksEEcossistema:** SpringBoot, SpringDataJpa, SpringSecurity, SpringWeb
-* **BancosDeDados:** Sql, MySql
-* **InfraestruturaEDevOps:** Docker, Amazon Web Service
-* **ControleDeVersão:** Git, GitHub
+* **Linguagens De Programação:** Java
+* **Frameworks E Ecossistema:** SpringBoot, SpringDataJpa, SpringSecurity, SpringWeb
+* **Bancos De Dados:** Sql, MySql
+* **Infraestrutura & DevOps:** Docker, Amazon Web Service
+* **Controle DeVersão:** Git, GitHub
 
 ---
 
